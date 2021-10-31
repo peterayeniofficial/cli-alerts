@@ -1,4 +1,4 @@
-# cli-alerts
+# cli-messages
 
 <h4 align="center">
     <br>
@@ -15,7 +15,7 @@ Work on macOS, Linux, and Windows.
 ## Install
 
 ```sh
-npm install cli-alerts
+npm install cli-messages
 ```
 
 ## Usage
